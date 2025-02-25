@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    min-height: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+.headernav {
+    background-color: rgba(83, 0, 90, 0.966);
+    display: grid;
+    grid-template-columns: auto auto auto 1fr auto auto;
+}
+
+.headernav h1 {
+    font-size: calc(40px + 4vw);
+    white-space: nowrap;
+    margin: 0 auto;
+  
+}
+
+.headernav img {
+    max-width: 100%;
+}
+
+.bak1 img {
+    max-width: 100%;
+}
+.menu{
+    position: absolute;
+    top: 0;
+    background-color: rgba(83, 0, 90, 0.966);
+    width: 169px;
+    margin-top: 200px;
+   height: calc(100vh - 135px);
+   display: none;
+
+}
+.menu h2{
+    font-size: 50px;
+    color: blueviolet;
+    background-color: black;
+    text-align: center;
+ 
+}
+.test{
+    background-color: rgb(0, 0, 0);
+ font-size: 50px;
+
+text-align: center;
+
+
+
+}
+.test2{
+    background-color: rgb(0, 0, 0);
+    font-size: 50px;
+  
+     text-align: center;
+     
+}
+.test3{
+    background-color: rgb(0, 0, 0);
+    font-size: 50px;
+
+     text-align: center;
+    
+}
+.menuul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    /* background-color: red; */
+    display: flex;
+    flex-direction: column;
+    gap: 7rem;
+    justify-content: space-between;
+
+    
+ 
+   
+}
+
+
+.testa1{
+    text-decoration: none;
+  color: blueviolet;
+}
+.testa2{
+    text-decoration: none;
+    color: blueviolet;
+}
+.testa3{
+    text-decoration: none;
+    color: blueviolet;
+}
