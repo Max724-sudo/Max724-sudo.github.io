@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+.huvudmenu { 
+    color: rgb(94, 94, 94);
+    /* background-color: red !important; */
+    text-decoration: none;
+    margin: 0 auto;
+
+}
+body
+{
+   margin: 0 auto;
+   background-color: gray;
+}
+
+.h1huvudmenu{
+    text-align: center;
+    background-color: rgba(0, 238, 255, 0.644);   
+    margin: 0 auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 50px;
+}

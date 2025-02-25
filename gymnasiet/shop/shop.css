@@ -1,0 +1,30 @@
+.h1huvudmenu{
+    text-align: center;
+    background-color: rgba(0, 238, 255, 0.644);   
+    margin: 0 auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    }
+    .huvudmenu { 
+        color: rgba(94, 94, 94);
+        /* background-color: red !important; */
+        text-decoration: none;
+        margin: 0% auto;
+    
+    }
+body{
+    margin: 0% auto;
+    display: grid;
+    background-color: gray;
+}
+.bar1{
+    display: flex;
+    
+}
+.deal{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+
+}
