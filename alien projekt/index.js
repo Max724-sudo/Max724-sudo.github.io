@@ -13,3 +13,8 @@ manushow.style.display = "none"
     
 })
 
+// var hej = document.querySelector(".headernav")
+
+// addEventListener("resize", (event) => {
+
+// });
