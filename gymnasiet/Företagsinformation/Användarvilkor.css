@@ -30,14 +30,37 @@ h2{
 
 text-align: center;
 font-size: 50px;
+margin: auto;
 }
 h3{
     
     text-align: center;
-    color: white;
+    color: rgb(255, 255, 255);
+    font-size: 10px;
+    margin: auto;
 }
-.användar1 {
+.full {
     background-color: rgb(136, 136, 136);
-    max-width: 500px;
+    max-width: 1920px;
+    display: flex;
 
+}
+h4{
+    text-align: center;
+    font-size: 50px;
+    margin: auto;
+    
+}
+h5{
+    text-align: center;
+    color: white;
+    font-size: 10px;
+    margin: auto;
+  
+}
+.användar1{
+    margin-top: 250px;
+}
+.användar2{
+   margin-top: 250px;
 }
