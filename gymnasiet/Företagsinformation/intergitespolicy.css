@@ -22,3 +22,40 @@ body
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-size: 50px;
 }
+h2{
+
+    text-align: center;
+    font-size: 50px;
+    margin: auto;
+    }
+    h3{
+        
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-size: 10px;
+        margin: auto;
+    }
+    h4{
+        text-align: center;
+        font-size: 50px;
+        margin: auto;
+        
+    }
+    h5{
+        text-align: center;
+        color: white;
+        font-size: 10px;
+        margin: auto;
+      
+    }
+    .full3{
+        background-color: rgb(136, 136, 136);
+        max-width: 1920px;
+        display: flex;
+    }
+    .användar5{
+        margin-top: 250px;
+    }
+    .användar6{
+       margin-top: 250px;
+    }
